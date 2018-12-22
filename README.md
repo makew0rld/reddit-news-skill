@@ -1,8 +1,8 @@
 ## Reddit News
-Reads out news headlines from r/worldnews on reddit
+Reads out news headlines from r/worldnews on reddit.
 
 ## Description
-This skill scrapes from r/worldnews using a GET request, and then has mycroft read up the headlines.
+This skill scrapes from r/worldnews using a GET request, and then has mycroft read five of the headlines.
 
 ## Examples
  - "Tell me the news from reddit"
