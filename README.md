@@ -1,5 +1,4 @@
-# <img src='https://static.getjar.com/icon-50x50/ff/898732_thm.jpg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/>
- Reddit News
+# <img src='https://static.getjar.com/icon-50x50/ff/898732_thm.jpg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/>Reddit News
 Reads out news headlines from r/worldnews on reddit.
 
 ## About 
@@ -17,7 +16,6 @@ This skill scrapes from r/worldnews using a GET request, and then has Mycroft re
 
 ## Category
 **Information**
-WARNING: You have no Categories selected. Please ensure your Skill is assigned to at least one Category.
 
 ## Tags
 #news
